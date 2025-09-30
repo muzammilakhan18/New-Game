@@ -1,2 +1,2 @@
 # New-Game
-this is my first gist resportory 
+this is my first git resportory 
